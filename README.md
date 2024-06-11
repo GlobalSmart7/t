@@ -1,5 +1,5 @@
 # obsolete now not maintaining. 
-use  this https://github.com/lalitjoshi06/Tplay_All.git  
+use  this   
 Tata Sky m3u generator web app
 A react web app to generate an m3u playlist for the channels Available on Tata Sky.
 ## Update
